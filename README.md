@@ -1,24 +1,8 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Full stack e-commerce app using Rails 7, hotwire, tailwind CSS, stripe & postgresql
+Main features & learnings:
+- Auth
+- Admin Product Management System
+- Admin dashboard w/Chart.js graph
+- User storefront
+- Local storage based Cart
+- User Checkout w/Stripe
